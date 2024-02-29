@@ -1,4 +1,4 @@
-package com.iesam.bank.domain;
+package com.iesam.bank.domain.Class;
 
 public class FixedTerm extends BankingProduct {
 
