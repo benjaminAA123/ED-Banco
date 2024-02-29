@@ -31,7 +31,7 @@ public class CustomerDataRepository implements CustomerRepository {
 
     @Override
     public void save(Customer customer) {
-      customer.add(customer);
+
     }
 
     @Override
